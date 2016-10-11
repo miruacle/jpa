@@ -7,6 +7,13 @@ import javax.persistence.Id;
 @Entity
 public class Person {
 
+	public Person(){
+		
+	}
+	
+	public Person(String name){
+		this.name = name;
+	}
 	@Id
 	@GeneratedValue
 	private Integer id;
