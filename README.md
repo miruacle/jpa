@@ -1,9 +1,6 @@
 # jpa
-=====
-Simple jpa examples.
--------------------
-Steps about push local project to github:
------------------------------------------
+##Simple jpa examples.
+##Steps about push local project to github:
 ###1.Open your project, select Team->Share...->Use...->Finish
 ###2.Team->Commit
 ###3.Create a new repository on github
